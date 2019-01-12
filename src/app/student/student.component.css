@@ -1,0 +1,58 @@
+/* .example-container {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .example-container > * {
+    width: 100%;
+  } */
+  
+
+   /* .example-container {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .example-container > * {
+    width: 100%;
+  }
+  
+  .example-right-align {
+    text-align: right;
+  }
+  
+  input.example-right-align::-webkit-outer-spin-button,
+  input.example-right-align::-webkit-inner-spin-button {
+    display: none;
+  }
+  
+  input.example-right-align {
+    -moz-appearance: textfield;
+  }
+  
+  .example-button-row button,
+.example-button-row a {
+  margin-right: 8px;
+} */
+
+.example-form {
+  min-width: 150px;
+  max-width: 500px;
+  width: 100%;
+}
+
+.example-full-width {
+  width: 85%;
+}
+
+.mat-radio-button ~ .mat-radio-button {
+  padding-right: 16px;
+  font: white;
+}
+.mat-raised-button{
+  margin-right: 8px;
+  width: 42%;
+}
+table {
+  width: 100%;
+}
